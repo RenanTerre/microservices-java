@@ -86,8 +86,6 @@ public class Product {
 	}
 
 	public void setConvertedPrice(double price2) {
-		// TODO Auto-generated method stub
-		
 	}
 
    
